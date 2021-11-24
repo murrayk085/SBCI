@@ -1,9 +1,8 @@
-# SBCI
-Surface-Based Connectivity Integration
+# Surface-Based-Connectome-Integration
+We maintain SBCI code through this repository: https://github.com/sbci-brain/SBCI_Pipeline
 
-This is an advanced MRI post-processing pipeline that builds structural connectivity (SC) and functional connectivity (FC) on the white matter surface of the brain and returns three imaging biomarkers representative of the relationships between SC and FC.
+We also develop data analysis and visulization tools for SBCI here: https://github.com/sbci-brain/SBCI_Toolkit
 
-What you will need:
-1. T1w anatomical data
-2. Multi-shell dwi data
-3. Resting-state fMRI data
+
+References:
+1. Cole, Martin, et al. "Surface‐Based Connectivity Integration: An atlas‐free approach to jointly study functional and structural connectivity." Human Brain Mapping (2021).
